@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.witaxi
+testFramework: spock
+sourceLanguage: java
+buildTool: gradle_kotlin
+features: [ app-name, graalvm, gradle, http-client-test, java, java-application, jib, management, micronaut-aot, micronaut-build, micronaut-http-validation, openapi, openapi-adoc, openapi-explorer, properties, readme, serialization-jackson, shade, slf4j-simple, spock, static-resources, tomcat-server, validation ]
